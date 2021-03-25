@@ -9,4 +9,4 @@ Breadth-first search adalah algoritma yang melakukan pencarian secara melebar ya
 DFS
 
 
-         Algoritma ini mirip dengan Algoritma BFS (Breadth First Search) yang sudah dijelaskan sebelumnya. Jika Algoritma BFS (Breadth First Search) melakukan perhitungan secara terurut dari urutan pertama sampai urutan terakhir, maka algoritma ini melakukan kebalikannya, yaitu melakukan perhitungan secara terurut dari urutan terakhir. Setelah menghabiskan semua kemungkinan dari titik terakhir, barulah mundur ke titik-titik sebelumnya sampai pada titik pertama.
+Algoritma ini mirip dengan Algoritma BFS (Breadth First Search) yang sudah dijelaskan sebelumnya. Jika Algoritma BFS (Breadth First Search) melakukan perhitungan secara terurut dari urutan pertama sampai urutan terakhir, maka algoritma ini melakukan kebalikannya, yaitu melakukan perhitungan secara terurut dari urutan terakhir. Setelah menghabiskan semua kemungkinan dari titik terakhir, barulah mundur ke titik-titik sebelumnya sampai pada titik pertama.
